@@ -1,3 +1,27 @@
+# Project Overview
+
+This project explores the Data Science job market in India using Python. The analysis focuses on understanding job market trends, salary distributions, and the skills employers are looking for across different data-related roles.
+
+The goal is to identify which skills are most in demand, which skills offer higher salaries, and what skills are worth learning for someone pursuing a career in data analytics.
+
+### Objectives
+
+- Identify the top 5 most in-demand skills for Data Analysts, Data Engineers, and Data Scientists.
+- Analyze and compare median salaries across these three job roles.
+- Explore the highest-paying and most frequently requested skills for Data Analysts.
+- Identify optimal skills by comparing salary potential with job demand.
+
+### Tools & Technologies
+
+- **Python** – Programming language
+- **Pandas** – Data cleaning and manipulation
+- **Matplotlib** – Data visualization
+- **Seaborn** – Statistical data visualization
+- **Jupyter Notebook** – Data analysis and exploration
+
+### Dataset
+
+The project uses the [Data Jobs Dataset](https://huggingface.co/datasets/lukebarousse/data_jobs), containing job titles, salaries, locations, work arrangements, and required skills.
 # The Analysis
 
 ## 1. What are the most demanded skills for the top 3 most popular data roles?
